@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there! 👋
+
+I'm Oğuz (the **ğ** is silent!).
+
+I’m a former Software Engineer at **Yapı Kredi Technology**, where I worked for two years. Currently, I'm pursuing a Master's degree in **Cyber-Physical and Social Systems (CPS2)** at **Université Jean Monnet**.
+
+I'm interested in software development, embedded systems, and the intersection of software and the physical world.
+
 
 <!--
 **gunahkarVergi/gunahkarVergi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +18,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
